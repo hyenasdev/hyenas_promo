@@ -1,0 +1,18 @@
+{
+  "title": "Hyenas Dev",
+  "author": "Hyenas Dev",
+  "headerTitle": "HyenasDev",
+  "description": "A product page from Hyenas Dev",
+  "language": "es-es",
+  "siteUrl": "https://hyenas.vercel.app",
+  "siteRepo": "https://github.com/hyenasdev/hyenas_promo",
+  "image": "/static/images/avatar.png",
+  "socialBanner": "/static/images/twitter-card.png",
+  "email": "hyenasdev@gmail.com",
+  "github": "https://github.com",
+  "twitter": "https://twitter.com/Twitter",
+  "facebook": "https://facebook.com",
+  "youtube": "https://youtube.com",
+  "linkedin": "https://www.linkedin.com",
+  "locale": "es-ES"
+}
