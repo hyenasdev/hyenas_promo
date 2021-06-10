@@ -8,6 +8,7 @@ import { SEO } from '@/components/SEO'
 import LayoutWrapper from '@/components/LayoutWrapper'
 
 export default function App({ Component, pageProps }) {
+  console.log(pageProps)
   return (
     <ThemeProvider attribute="class">
       <Head>
